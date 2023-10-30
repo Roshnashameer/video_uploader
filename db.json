@@ -1,0 +1,176 @@
+{
+  "videos": [
+    {
+      "id": "lnydp3t0",
+      "caption": "garden",
+      "coverImage": "https://th.bing.com/th/id/OIP.CIZ1o0pHAznk3uaS9AWoLgHaEo?pid=ImgDet&rs=1",
+      "video_url": "https://www.youtube.com/embed/zh83i0yS67M?autoplay=1"
+    },
+    {
+      "id": 2,
+      "caption": "cartoon",
+      "coverImage": "https://static2.makeuseofimages.com/wordpress/wp-content/uploads/2012/04/cover-images.jpg",
+      "video_url": "https://www.youtube.com/embed/0BgqnXx4Gj0?autoplay=1"
+    },
+    {
+      "id": 3,
+      "caption": "Toy train",
+      "coverImage": "https://2.bp.blogspot.com/-yxhMnSHInkg/WXiqa4KKiTI/AAAAAAAArkw/DuiicSsOYn8_YUK0jyvwSyEmorf12BcSgCLcBGAs/s1600/professional-book-style-CD-cover-design---customise-and-buy-online-now---get-it-with-free-background-art-and-customized-text-for-your-CD-booklet-and-other-promotions-separately.jpg",
+      "video_url": "https://www.youtube.com/embed/P0NOI2uomyI?autoplay=1"
+    },
+    {
+      "id": "70IpfLg",
+      "caption": "RDX",
+      "coverImage": "https://th.bing.com/th?id=OIP.dxJTNhFBuJ1NDiU8UitXZwAAAA&w=187&h=332&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
+      "video_url": "https://www.youtube.com/embed/NJjDRnE-5_4?autoplay=1"
+    },
+    {
+      "id": "loaaw7gp",
+      "caption": "Mr Bean",
+      "coverImage": "https://m.media-amazon.com/images/M/MV5BYjU2YzY5NDEtM2M3NC00NGM0LTg3MmItNWQ1OWY2ZmNkZTU0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+      "video_url": "https://www.youtube.com/embed/JYNyQcblzgI?autoplay=1"
+    },
+    {
+      "id": "loaay3io",
+      "caption": "Dangal",
+      "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBWphztLFCdjzCvJCEbZdEsIJHLgZFFyf-zQ&usqp=CAU",
+      "video_url": "https://www.youtube.com/embed/KZ9FdGcflRQ?autoplay=1"
+    },
+    {
+      "id": "loab07wl",
+      "caption": "Jawan",
+      "coverImage": "https://www.91-cdn.com/hub/wp-content/uploads/2023/10/Jawan.png",
+      "video_url": "https://www.youtube.com/embed/COv52Qyctws?autoplay=1"
+    }
+  ],
+  "categories": [
+    {
+      "id": "lo8e2mev",
+      "name": "comedy",
+      "videos": [
+        {
+          "id": "loaaw7gp",
+          "caption": "Mr Bean",
+          "coverImage": "https://m.media-amazon.com/images/M/MV5BYjU2YzY5NDEtM2M3NC00NGM0LTg3MmItNWQ1OWY2ZmNkZTU0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+          "video_url": "https://www.youtube.com/embed/JYNyQcblzgI?autoplay=1"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "songs",
+      "videos": [
+        {
+          "id": "70IpfLg",
+          "caption": "RDX",
+          "coverImage": "https://th.bing.com/th?id=OIP.dxJTNhFBuJ1NDiU8UitXZwAAAA&w=187&h=332&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
+          "video_url": "https://www.youtube.com/embed/NJjDRnE-5_4?autoplay=1"
+        },
+        {
+          "id": "lnydp3t0",
+          "caption": "garden",
+          "coverImage": "https://th.bing.com/th/id/OIP.CIZ1o0pHAznk3uaS9AWoLgHaEo?pid=ImgDet&rs=1",
+          "video_url": "https://www.youtube.com/embed/zh83i0yS67M?autoplay=1"
+        },
+        {
+          "id": 2,
+          "caption": "cartoon",
+          "coverImage": "https://static2.makeuseofimages.com/wordpress/wp-content/uploads/2012/04/cover-images.jpg",
+          "video_url": "https://www.youtube.com/embed/0BgqnXx4Gj0?autoplay=1"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Sports",
+      "videos": [
+        {
+          "id": "loaay3io",
+          "caption": "Dangal",
+          "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBWphztLFCdjzCvJCEbZdEsIJHLgZFFyf-zQ&usqp=CAU",
+          "video_url": "https://www.youtube.com/embed/KZ9FdGcflRQ?autoplay=1"
+        },
+        {
+          "id": "loaaw7gp",
+          "caption": "Mr Bean",
+          "coverImage": "https://m.media-amazon.com/images/M/MV5BYjU2YzY5NDEtM2M3NC00NGM0LTg3MmItNWQ1OWY2ZmNkZTU0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+          "video_url": "https://www.youtube.com/embed/JYNyQcblzgI?autoplay=1"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Romance",
+      "videos": [
+        {
+          "id": "loab07wl",
+          "caption": "Jawan",
+          "coverImage": "https://www.91-cdn.com/hub/wp-content/uploads/2023/10/Jawan.png",
+          "video_url": "https://www.youtube.com/embed/COv52Qyctws?autoplay=1"
+        },
+        {
+          "id": "loaay3io",
+          "caption": "Dangal",
+          "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBWphztLFCdjzCvJCEbZdEsIJHLgZFFyf-zQ&usqp=CAU",
+          "video_url": "https://www.youtube.com/embed/KZ9FdGcflRQ?autoplay=1"
+        }
+      ]
+    },
+    {
+      "id": "loab91wu",
+      "name": "Education",
+      "videos": [
+        {
+          "id": "loaaw7gp",
+          "caption": "Mr Bean",
+          "coverImage": "https://m.media-amazon.com/images/M/MV5BYjU2YzY5NDEtM2M3NC00NGM0LTg3MmItNWQ1OWY2ZmNkZTU0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+          "video_url": "https://www.youtube.com/embed/JYNyQcblzgI?autoplay=1"
+        }
+      ]
+    }
+  ],
+  "histories": [
+    {
+      "id": 1,
+      "video_title": "RDX",
+      "url": "https://www.youtube.com/embed/NJjDRnE-5_4?autoplay=1",
+      "date": "october 27 6th 2023 9:05 AM"
+    },
+    {
+      "id": "lo9vz2nu",
+      "video_title": "cartoon",
+      "url": "https://www.youtube.com/embed/0BgqnXx4Gj0?autoplay=1",
+      "date": "2023-10-28 3:45:22 PM"
+    },
+    {
+      "id": "lo9x6pvk",
+      "video_title": "Toy train",
+      "url": "https://www.youtube.com/embed/P0NOI2uomyI?autoplay=1",
+      "date": "2023-10-28 4:19:18 PM"
+    },
+    {
+      "id": "lo9x6w9m",
+      "video_title": "garden",
+      "url": "https://www.youtube.com/embed/zh83i0yS67M?autoplay=1",
+      "date": "2023-10-28 4:19:26 PM"
+    },
+    {
+      "id": "loaaoige",
+      "video_title": "comedy",
+      "url": "https://www.youtube.com/embed/_JU93ciJ2-4?autoplay=1",
+      "date": "2023-10-28 10:37:03 PM"
+    },
+    {
+      "id": "loaatd7o",
+      "video_title": "garden",
+      "url": "https://www.youtube.com/embed/zh83i0yS67M?autoplay=1",
+      "date": "2023-10-28 10:40:50 PM"
+    },
+    {
+      "id": "loabtdig",
+      "video_title": "cartoon",
+      "url": "https://www.youtube.com/embed/0BgqnXx4Gj0?autoplay=1",
+      "date": "2023-10-28 11:08:50 PM"
+    }
+  ]
+}
